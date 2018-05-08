@@ -32,6 +32,7 @@ def index_page(page):
 
     except TimeoutException:
         index_page(page)
+        ###################
 
 def get_products():
     """
