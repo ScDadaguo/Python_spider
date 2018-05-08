@@ -1,0 +1,672 @@
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i1/43576469/TB2wJxPhv5TBuNjSspmXXaDRVXa_!!0-saturn_solar.jpg', 'price': '¥2468.00', 'deal': '6162人付款', 'title': '[12期免息]Apple/苹果 iPad 2018款 9.7英寸wifi新款平板电脑128G', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/2616970884/TB1xc_bhlyWBuNkSmFPXXXguVXa_!!0-item_pic.jpg', 'price': '¥2368.00', 'deal': '25950人付款', 'title': '2018新款 Apple/苹果 9.7英寸\nipad\nwifi版 智能平板电脑A10芯片', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/1669409267/TB2fN9UpxGYBuNjy0FnXXX5lpXa_!!1669409267-0-item_pic.jpg', 'price': '¥2468.00', 'deal': '6162人付款', 'title': '[12期免息]Apple/苹果\niPad\n2018款 9.7英寸wifi新款平板电脑128G', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/2670850710/TB1QrYSduuSBuNjSsziXXbq8pXa_!!0-item_pic.jpg', 'price': '¥39.00', 'deal': '2508人付款', 'title': '汽车车载手机平板电脑车用\nipad\n懒人后座支架车内座椅后排头枕mini', 'shop': 'pzoz数码旗舰店', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/2200274095/TB1zgroikOWBuNjSsppXXXPgpXa_!!0-item_pic.jpg', 'price': '¥329.00', 'deal': '368人付款', 'title': '卓梵 阿玛尼男包手拿包商务\nIPAD\n包信封包手包真皮软皮牛皮大容量', 'shop': 'josephamani黛言专卖店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/673208397/TB2rhroddHO8KJjSZFtXXchfXXa_!!673208397.jpg', 'price': '¥23.80', 'deal': '361人付款', 'title': '帆布包男包单肩包斜挎包男韩版时尚时尚户外休闲商务小包\nIPAD\n背包', 'shop': '炫彩包袋', 'location': '河北 保定'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/TB1YvQgLXXXXXbhXpXXYXGcGpXX_M2.SS2', 'price': '¥33.00', 'deal': '248人付款', 'title': '手包街头软皮手包新款韩版手拿包潮流铆钉手包休闲单肩斜跨\niPad\n包', 'shop': 'sedl5565850', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2271900793/TB1SL7Hi7OWBuNjSsppXXXPgpXa_!!2-item_pic.png', 'price': '¥239.00', 'deal': '383人付款', 'title': '美洲野牛手包男真皮大容量手拿包牛皮青年手抓包\nipad\n信封包男夹包', 'shop': '温欣箱包专营店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i7/TB1iH.IKVXXXXc5XpXXYXGcGpXX_M2.SS2', 'price': '¥24.00', 'deal': '185人付款', 'title': '韩版潮男手拿包 男士折叠手抓包 潮流手拿包男休闲商务手包\nIPAD\n包', 'shop': 'sedl5565850', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/893352404/TB2XkDpcC8YBeNkSnb4XXaevFXa_!!893352404.jpg', 'price': '¥39.00', 'deal': '13人付款', 'title': '袋鼠男包单肩包男斜挎包男士皮包包竖款商务包挂包休闲背包\niPad\n包', 'shop': '晨曦feixun', 'location': '河北 保定'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/1812529380/TB1RjyFpDlYBeNjSszcXXbwhFXa_!!0-item_pic.jpg', 'price': '¥138.00', 'deal': '552人付款', 'title': '七匹狼男包单肩包男士防水牛津布斜挎包\nipad\n平板包包旅行休闲布包', 'shop': 'septwolves翔熙专卖店', 'location': '湖南 株洲'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/TB1KtkpHVXXXXbcXFXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥29.00', 'deal': '25人付款', 'title': '信封大包女夏拼接手拿包文件\nipad\n资料包韩版时尚大容量手抓晚宴包', 'shop': '青年女包11', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/1693601207/TB2ZCTVrVXXXXbsXXXXXXXXXXXX_!!1693601207.jpg', 'price': '¥49.00', 'deal': '8人付款', 'title': '欧美时尚潮男手包小怪兽防水牛津布手挽包男士信封包小恶魔\nipad\n包', 'shop': '时尚一百分之一', 'location': '广东 广州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/2618438013/TB2RZAmnmtYBeNjSspaXXaOOFXa_!!2618438013.jpg', 'price': '¥45.00', 'deal': '5人付款', 'title': '重生epiphqny韩版休闲迷你学院风豹纹双肩包\nipad\n背包女包51011', 'shop': 'epiphqny折扣店', 'location': '福建 厦门'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/53520749/TB2O73nXMDD8KJjy0FdXXcjvXXa_!!53520749.jpg', 'price': '¥38.90', 'deal': '0人付款', 'title': '新款男包时尚铆钉单肩包邮差包休闲潮流斜挎包\nipad\n包书包学生包', 'shop': 'liangjick', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/TB1IQuyKFXXXXcRXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥49.80', 'deal': '2人付款', 'title': '男包单肩包 防水牛津布中性斜挎包背包 时尚潮男休闲包男士\niPad\n包', 'shop': '时尚一百分之一', 'location': '广东 广州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/3333027949/TB21tSjXsrHK1JjSspfXXbsrXXa_!!3333027949.jpg', 'price': '¥78.00', 'deal': '978人付款', 'title': '浴缸架浴室伸缩置物架板多功能浴缸隔板卫生间泡澡\niPad\n手机支架竹', 'shop': '全品竹木家私', 'location': '浙江 金华'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3309133710/TB1AMhJk4TI8KJjSspiXXbM4FXa_!!0-item_pic.jpg', 'price': '¥309.00', 'deal': '167人付款', 'title': '牛皮单肩斜挎手提包男士竖款真皮背包软皮欧美时尚\nipad\n平板电脑包', 'shop': '艾利斯斯普林斯旗舰店', 'location': '广东 佛山'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/835893472/TB1b7GaXbsTMeJjSszgXXacpFXa_!!0-item_pic.jpg', 'price': '¥49.00', 'deal': '1173人付款', 'title': '倍思车载支架汽车上后排头枕后座椅\nipad\n平板手机多功能支撑架用品', 'shop': 'baseus倍思旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2742967129/TB2O_TcoJRopuFjSZFtXXcanpXa_!!2742967129.jpg', 'price': '¥158.00', 'deal': '195人付款', 'title': '汽车用品卡通座椅收纳袋车载多功能椅背置物袋杂物储物袋挂袋\nIPAD', 'shop': '创意_汽车用品', 'location': '上海'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/2382101516/TB2GUghc0nJ8KJjSszdXXaxuFXa_!!2382101516.jpg', 'price': '¥148.00', 'deal': '231人付款', 'title': '2017新款单肩包 男包斜挎包休闲时尚韩版包包薄款\nipad\n背包潮挎包', 'shop': '新天地电商中心', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2200274095/TB16ktojZLJ8KJjy0FnXXcFDpXa_!!0-item_pic.jpg', 'price': '¥298.00', 'deal': '156人付款', 'title': '卓梵 阿玛尼男士手包软皮大容量商务\nIPAD\n包手机包信封包真皮牛皮', 'shop': 'josephamani黛言专卖店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/531681621/TB2wy1PkN9YBuNjy0FfXXXIsVXa_!!531681621.jpg', 'price': '¥79.00', 'deal': '17人付款', 'title': '瑞士军刀单肩包男士多功能商务斜挎包竖款手提包休闲小背包\nIPAD\n包', 'shop': 'xiaoqing1852', 'location': '福建 厦门'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/2742967129/TB2xvIWtXXXXXboXpXXXXXXXXXX_!!2742967129.jpg', 'price': '¥108.00', 'deal': '202人付款', 'title': '汽车用品多功能车载后背杂物挂袋汽车座椅收纳袋椅背袋置物袋\nIPAD', 'shop': '创意_汽车用品', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1026909821/TB2JsRCf2uSBuNkHFqDXXXfhVXa_!!1026909821-0-item_pic.jpg', 'price': '¥129.00', 'deal': '332人付款', 'title': '巴朗胸包男士大容量斜挎包休闲运动背包三角水滴包\nipad\n单肩包男潮', 'shop': '巴朗成都专卖店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/77852282/TB1SRbifGmgSKJjSspiXXXyJFXa_!!0-item_pic.jpg', 'price': '¥158.00', 'deal': '173人付款', 'title': '小怪兽手拿包女大容量恶魔眼睛牛皮老佛爷休闲信封青年\nipad\n包潮男', 'shop': '情趣衣店', 'location': '广东 广州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/1026909821/TB27h0IluySBuNjy1zdXXXPxFXa_!!1026909821-0-item_pic.jpg', 'price': '¥139.00', 'deal': '312人付款', 'title': '巴朗胸包男商务双肩包背包单肩两用斜挎包\nIpad\n笔记本电脑休闲男包', 'shop': '巴朗成都专卖店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1916349919/TB2eNB7gr1YBuNjSszeXXablFXa_!!1916349919.jpg', 'price': '¥129.00', 'deal': '403人付款', 'title': '埋不烂原创 复古油蜡帆布包男士斜挎包夏季小包单肩包\nipad\n包B108', 'shop': 'mybrand2009', 'location': '广东 广州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/2659463963/TB2N5v_lXXXXXXeXXXXXXXXXXXX_!!2659463963.jpg', 'price': '¥38.00', 'deal': '1680人付款', 'title': '特价吉田潮男包防水单肩包休闲斜挎包学生邮差包复古潮版包\niPad\n包', 'shop': '吉田porter打工者', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/731456220/TB1c7ccbHGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg', 'price': '¥99.00', 'deal': '282人付款', 'title': '2018新款手包信封包韩版潮流男女通用放\nIPAD\n大容量夹包男包手拿包', 'shop': '杰西维尔旗舰店', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/TB1az0yIVXXXXagaFXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥268.00', 'deal': '100人付款', 'title': '男士疯马牛皮手拿包真皮单肩信封包A4文件包\nIPAD\n包大容量潮流夹包', 'shop': 'guoyan0788', 'location': '安徽 淮北'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2108728798/TB1CsdnkH1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg', 'price': '¥680.00', 'deal': '67人付款', 'title': '新款编织风格bv手包男商务男士手拿包大容量男包真皮信封包\nipad\n包', 'shop': '巴黎生活2014', 'location': '广东 广州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/754811567/TB2IdL.af9TBuNjy1zbXXXpepXa_!!754811567.jpg', 'price': '¥398.00', 'deal': '57人付款', 'title': '豪华汽车电脑桌车载折叠小桌板多功能笔记本\nipad\n支架后座车用餐桌', 'shop': '圣楷博豪箱包店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/2258674414/TB1HLskXC_I8KJjy0FoXXaFnVXa_!!0-item_pic.jpg', 'price': '¥129.00', 'deal': '192人付款', 'title': '七匹狼男包单肩包休闲男士帆布包牛津布斜挎包防水挎包男背包\nipad', 'shop': 'septwolves隆丰专卖店', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3403941459/TB1csRfm25TBuNjSspcXXbnGFXa_!!0-item_pic.jpg', 'price': '¥299.00', 'deal': '39人付款', 'title': '香港代购日本潮牌单肩包斜挎包真皮死飞邮差包男包旅行包\nipad\n背包', 'shop': '昌盛世纪贸易', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/TB1Wi1iKFXXXXaqXXXXYXGcGpXX_M2.SS2', 'price': '¥188.00', 'deal': '95人付款', 'title': 'SPA浴缸置物架多功能浴缸支架 卫生间浴室隔板泡澡\nipad\n手机架', 'shop': '式微式微00', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2382101516/TB2BVi.cYsrBKNjSZFpXXcXhFXa_!!2382101516.jpg', 'price': '¥168.00', 'deal': '93人付款', 'title': '新款男包单肩包男士斜挎包商务背包休闲韩版包包学生日韩\nipad\n包包', 'shop': '新天地电商中心', 'location': '广东 广州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/1128925972/TB2CwTbaAfb_uJjSsD4XXaqiFXa_!!1128925972.jpg', 'price': '¥188.00', 'deal': '130人付款', 'title': '原创手工单肩包时尚休闲真皮男包头层牛皮斜跨多功能\nipad\n潮包竖款', 'shop': '霸必图babitu', 'location': '广东 佛山'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/60323155/TB2iOorXDzGK1JjSspkXXXNUpXa_!!60323155.jpg', 'price': '¥49.00', 'deal': '518人付款', 'title': '中国风手包复古撞色潮流信封包\nipad\n单肩包潮男皮质街头手拿单肩包', 'shop': 'sedl5565850', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/521312444/TB1tK6UcsjI8KJjSsppXXXbyVXa_!!0-item_pic.jpg', 'price': '¥36.00', 'deal': '830人付款', 'title': '艾乖男士手包韩版时尚磨砂PU男包商务手抓信封包\nIPAD\n文件包手拿包', 'shop': '艾乖旗舰店', 'location': '天津'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/136180673/TB2.HcfhAKWBuNjy1zjXXcOypXa_!!136180673.jpg', 'price': '¥259.00', 'deal': '43人付款', 'title': '韩国正品大号手拿包\nIPAD\n包手拿包平板电脑包多功能包信封钱包', 'shop': '我的运动鞋批发', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/57832598/TB2YGGEdBDH8KJjSszcXXbDTFXa_!!57832598.jpg', 'price': '¥899.00', 'deal': '13人付款', 'title': 'MRKOO米斯酷车载\niPad\n/mini导航改装内嵌中控一体车机超越CarPlay', 'shop': 'i故政', 'location': '广东 东莞'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/773384983/TB2gDE0bNvzQeBjSZPfXXbWGFXa_!!773384983.jpg', 'price': '¥159.00', 'deal': '113人付款', 'title': '头层牛皮休闲背包油蜡皮男包黑色真皮单肩斜挎小包商务软皮\nIpad\n包', 'shop': 'guoyue5558', 'location': '江西 吉安'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2113313322/TB1DLdwaFOWBuNjy0FiXXXFxVXa_!!0-item_pic.jpg', 'price': '¥39.00', 'deal': '678人付款', 'title': '车载手机架汽车\nipad\n支架后排车用平板电脑后座座椅通用型mini车内', 'shop': '艾布与棉花旗舰店', 'location': '浙江 金华'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2815619715/TB2jfwdif2H8KJjy0FcXXaDlFXa_!!2815619715.jpg', 'price': '¥158.00', 'deal': '94人付款', 'title': 'lipault法国品牌欧美时尚迷你双肩包男女尼龙小号背包\nipad\n包防水', 'shop': '思慕工坊体验馆', 'location': '广东 东莞'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/49919434/T212EFXdhXXXXXXXXX_!!49919434.jpg', 'price': '¥350.00', 'deal': '32人付款', 'title': '车乐宝车载数码碟盒 USB/SD卡/iPhone/\niPad\n/AUX有线输入 原车控制', 'shop': '国宝sidney', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/439967454/TB26SN0fxTI8KJjSspiXXbM4FXa_!!439967454.jpg', 'price': '¥78.00', 'deal': '17人付款', 'title': '大疆DJI 御MAVIC AIR PRO 晓SPARK 平板支架 前置遥控器手机\nipad', 'shop': '模型秀', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/TB16APrQpXXXXbxXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥188.00', 'deal': '76人付款', 'title': '越古帆布包胸包男士单肩包斜挎包韩版潮包复古休闲运动包\nIPAD\n男包', 'shop': '越古旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i1/12657496/TB2ZWGohSBYBeNjy0FeXXbnmFXa_!!2-saturn_solar.png', 'price': '¥1988.00', 'deal': '453人付款', 'title': '现货当天发Apple/苹果 iPad 2018款 wifi版 新款\nipad\nair平板电脑', 'shop': '领域数码通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i1/10981406/TB282NwfRyWBuNkSmFPXXXguVXa_!!0-saturn_solar.jpg', 'price': '¥2028.00', 'deal': '170人付款', 'title': 'Apple/苹果 iPad 2018款平板电脑9.7英寸2017款正品\nipad\nair2', 'shop': '最低最诚信', 'location': '江苏 南京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i2/46115920/TB2rV4FcyCYBuNkHFCcXXcHtVXa_!!0-saturn_solar.jpg', 'price': '¥1968.00', 'deal': '583人付款', 'title': '现货 Apple/苹果 iPad 2018款 苹果平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'q272740992', 'location': '上海'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/197232874/TB1vN6TffjM8KJjSZFyXXXdzVXa_!!0-item_pic.jpg', 'price': '¥2938.00', 'deal': '232人付款', 'title': '12期免息【2年保修】Apple/苹果\nIpad\n9.7英寸WLAN 苹果平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3120180028/TB2Y7nKdgLD8KJjSszeXXaGRpXa_!!3120180028.jpg', 'price': '¥1799.00', 'deal': '218人付款', 'title': 'Apple/苹果\niPad\nAir 2 平板电脑9.7寸64Gwifi三网4G正品分期6代', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/2579581146/TB25WmBizuhSKJjSspdXXc11XXa_!!2579581146.jpg', 'price': '¥5320.00', 'deal': '76人付款', 'title': '2017新款\nipad\npro 12.9英寸二代 一代 256G内存4G版 掌上平板电脑', 'shop': '萧肖xiaojun', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2359568200/TB2CFOmgIyYBuNkSnfoXXcWgVXa_!!2359568200.jpg', 'price': '¥1758.00', 'deal': '362人付款', 'title': 'Apple/苹果\niPad\n2018款\nipad\nair3平板电脑9.7英寸 新款\niPad\n2018', 'shop': '秦彤彤2013', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1ZN2xLpXXXXaMXpXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥1399.00', 'deal': '32人付款', 'title': 'Apple/苹果\niPad\n4 插卡版原装正品', 'shop': '董兆伍', 'location': '浙江 绍兴'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/60577993/TB2rZpckntYBeNjy1XdXXXXyVXa_!!60577993.jpg', 'price': '¥2015.96', 'deal': '100人付款', 'title': 'Apple/苹果\niPad\n2018款新new\niPad\n9.7国行原封支持Pencil送皮套', 'shop': 'kongleionline', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1HxsHpCtYBeNjSspaXXaOOFXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '5162人付款', 'title': 'Apple/苹果\niPad\nmini4 7.9英寸平板电脑128GWiFi版迷你平板电脑', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/126195000/TB2BNnwaamWBuNjy1XaXXXCbXXa_!!126195000.jpg', 'price': '¥2238.00', 'deal': '577人付款', 'title': 'Apple/苹果\niPad\nmini4代wifi 4G版平板电脑迷你mini 4全新未激活', 'shop': '乐维网购', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1669409267/TB1ommieYZnBKNjSZFrXXaRLFXa_!!0-item_pic.jpg', 'price': '¥2798.00', 'deal': '694人付款', 'title': '[12期免息]Apple/苹果\niPad\nmini 4 7.9英寸 平板电脑 128GWifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1An8PRFXXXXbUXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥6333.00', 'deal': '', 'title': 'Apple/苹果 12.9 英寸\niPad\nPro', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/1669409267/TB1O9.RoASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg', 'price': '¥2168.00', 'deal': '639人付款', 'title': 'Apple/苹果\nIpad\n2017款 9.7英寸 平板电脑 32G/128G Wifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/127187360/TB2MBeShcnI8KJjSspeXXcwIpXa_!!127187360.jpg', 'price': '¥1845.00', 'deal': '204人付款', 'title': 'Apple/苹果\niPad\nmini 4 WiFi 16G/32G/64G/128G 平板电脑 mini4', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1bRNLhiCYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥4888.00', 'deal': '162人付款', 'title': '2017新款Apple/苹果\niPad\nPro 10.5英寸64G/256G轻薄平板电脑wifi', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/1856213115/TB20S0onKuSBuNjSsplXXbe8pXa_!!1856213115.jpg', 'price': '¥4150.00', 'deal': '51人付款', 'title': 'Apple/苹果\niPad\nPro 10.5英寸wifi+4G全网通新款\nipad\n平板电脑插卡', 'shop': '纯色心情1951', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2430166508/TB2OzwTintYBeNjy1XdXXXXyVXa_!!2430166508.jpg', 'price': '¥2058.00', 'deal': '239人付款', 'title': 'Apple/苹果\niPad\n2018款 32 128G wifi 4G 新\niPad\nAir 4 未激活', 'shop': '麦克团mactuancom', 'location': '北京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/2643414127/TB2oI8Xd77mBKNjSZFyXXbydFXa_!!2643414127.jpg', 'price': '¥1198.00', 'deal': '260人付款', 'title': '苹果\nipad\nmini2平板电脑 迷你2 wifi32G 7.9英寸 mini2 插卡', 'shop': '天空f翱翔', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/157682098/TB2wFwHfxPI8KJjSspfXXcCFXXa_!!157682098.jpg', 'price': '¥1564.20', 'deal': '195人付款', 'title': 'Apple/苹果\niPad\nmini3 7.9英寸16G wifi迷你3指纹 插卡平板电脑', 'shop': 'nanznvy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/898225/TB25bFmleuSBuNjSsziXXbq8pXa_!!898225.jpg', 'price': '¥1888.00', 'deal': '494人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair3 平板电脑\nipad\n2018新款9.7', 'shop': 'ygsd', 'location': '北京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/TB13_7uNXXXXXX2apXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥3259.00', 'deal': '', 'title': 'Apple/苹果\niPad\nmini 4', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/591479855/TB2bpXfn1uSBuNjSsziXXbq8pXa_!!591479855.png', 'price': '¥3899.99', 'deal': '82人付款', 'title': '2017款Apple/苹果\niPad\nPro一二代12.9/10.5/9.7平板电脑美版国行', 'shop': 'goheyboy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1826072582/TB2wW3zgGmWBuNjy1XaXXXCbXXa_!!1826072582.jpeg', 'price': '¥2008.00', 'deal': '235人付款', 'title': 'Apple/苹果\niPad\n2018款平板电脑9.7寸全新未激活国行原封wifi 4g', 'shop': 'cyipad7022', 'location': '四川 成都'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/847541039/TB2Wq01orSYBuNjSspfXXcZCpXa_!!847541039.jpg', 'price': '¥1998.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\nmini4 128G全新7.9寸国行港版美版4G全网通迷你4', 'shop': '益饰缘', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/81480186/TB2BeiBnbGYBuNjy0FoXXciBFXa_!!81480186.jpg', 'price': '¥1788.00', 'deal': '523人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair4 平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'kangkangkfl', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/1711821639/TB2dR46diMnBKNjSZFzXXc_qVXa_!!1711821639.jpg', 'price': '¥1968.00', 'deal': '583人付款', 'title': '现货 Apple/苹果\niPad\n2018款 苹果平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'q272740992', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/3120180028/TB2Y77ZaFTM8KJjSZFlXXaO8FXa_!!3120180028.jpg', 'price': '¥1999.00', 'deal': '171人付款', 'title': 'Apple/苹果\niPad\nmini 4 7.9寸平板电脑 插卡3网4G版 128GB WIFI', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2539737278/TB2qB.EpHXlpuFjSszfXXcSGXXa_!!2539737278.jpg', 'price': '¥2278.00', 'deal': '168人付款', 'title': 'Apple/苹果\niPad\nmini 4 WIFI 4G 128G 迷你4 国行港版美版未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2669992558/TB2j9Rgg1ySBuNjy1zdXXXPxFXa_!!2669992558.jpg', 'price': '¥2378.00', 'deal': '46人付款', 'title': 'Apple/苹果\niPad\nPro 9.7英寸平板电脑2018新款\niPad\n17年12.9寸10.5', 'shop': '睿姒女装', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/197232874/TB1jGHSfXYM8KJjSZFuXXcf7FXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '101人付款', 'title': '12期免息【2年保修】Apple/苹果\niPad\nmini 4 7.9英寸平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/2807688929/TB24pVraSBYBeNjy0FeXXbnmFXa_!!2807688929.jpg', 'price': '¥2250.00', 'deal': '36人付款', 'title': 'Apple/苹果\niPad\nair3 2017新款\nipad\n平板电脑新9.7寸air2升级4G版', 'shop': '郑兴科技', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/319889882/TB2NjtKbB4lpuFjy1zjXXcAKpXa_!!319889882.jpg', 'price': '¥3299.00', 'deal': '93人付款', 'title': 'Apple/苹果\niPad\npro 大屏苹果12.9寸平板电脑\nipad\npro wifi 4G港', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/278519843/TB22UN.cZbI8KJjy1zdXXbe1VXa_!!278519843.jpg', 'price': '¥3928.00', 'deal': '58人付款', 'title': '新款Apple/苹果\niPad\nPro 10.5寸 4G WiFi 平板电脑 原封12.9英寸', 'shop': '隐河通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/127187360/TB2wQxihznD8KJjSspbXXbbEXXa_!!127187360.jpg', 'price': '¥3450.00', 'deal': '172人付款', 'title': 'Apple/苹果\niPad\nPro 10.5寸平板电脑\nipad\npro wifi 4G国行', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/923478439/TB24PMWX17JL1JjSZFKXXc4KXXa_!!923478439.jpg', 'price': '¥2350.00', 'deal': '43人付款', 'title': '【日版代购】Apple/苹果\niPad\nAir3 2017\niPad\npro 10.5 12.9 mini4', 'shop': 'z太极z', 'location': '日本'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/708807856/TB2rDlPj5AKL1JjSZFoXXagCFXa_!!708807856.jpg', 'price': '¥1280.00', 'deal': '129人付款', 'title': 'Apple/苹果\niPad\nAir1 32GB WIFI\niPad\n5平板电脑 64G 超薄9.7英寸', 'shop': '天易e家', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3339867181/TB1BbaLpuuSBuNjy1XcXXcYjFXa_!!0-item_pic.jpg', 'price': '¥2298.00', 'deal': '240人付款', 'title': 'Apple/苹果\niPad\n2018款 9.7英寸新款平板电脑 air2升级版', 'shop': '岗隆数码专营店', 'location': '江苏 无锡'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/2539737278/TB2EOv4pMJkpuFjSszcXXXfsFXa_!!2539737278.jpg', 'price': '¥5398.00', 'deal': '68人付款', 'title': '新款Apple/苹果\niPad\npro 12.9寸wifi 64 256 512 4G 国行未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/1764629552/TB1VlRSoxSYBuNjSspjXXX73VXa_!!0-item_pic.jpg', 'price': '¥2088.00', 'deal': '217人付款', 'title': '12期分期/2017新款Apple/苹果\nIpad\n平板电脑9.7英寸32G/128G air2', 'shop': '环球机库官方旗舰店', 'location': '江苏 扬州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/129559355/TB2nw7DlbSYBuNjSspiXXXNzpXa_!!129559355.jpg', 'price': '¥2138.00', 'deal': '141人付款', 'title': 'Apple/苹果\niPad\n2018款 平板电脑苹果 9.7英寸 苹果\nipad\n2018新款', 'shop': '易飞数码通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/475434867/TB2yEB9iL5TBuNjSspcXXbnGFXa_!!475434867.jpg', 'price': '¥2788.00', 'deal': '151人付款', 'title': 'Apple/苹果\niPad\npro 12.9寸10.5 平板电脑 新款\nipad\npro12.9二代', 'shop': 'genglulu520', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2671825699/TB24YpVjpGWBuNjy0FbXXb4sXXa_!!2671825699.jpg', 'price': '¥1958.00', 'deal': '28人付款', 'title': '现货学习Apple/苹果\niPad\n2018款\nipad\n平板电脑新款128G支持Pencil', 'shop': 'jiute999', 'location': '河南 郑州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/30768631/TB2R25PhoR1BeNjy0FmXXb0wVXa_!!30768631.jpg', 'price': '¥1988.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\n2018款 新\niPad\n9.7寸平板电脑A10 国行原封送皮套', 'shop': '洋帆数码', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i1/31623982/TB2n.CQoCBYBeNjy0FeXXbnmFXa_!!0-saturn_solar.jpg', 'price': '¥1998.00', 'deal': '87人付款', 'title': 'Apple/苹果 iPad mini4 128G全新7.9寸国行港版美版4G全网通迷你4', 'shop': '益饰缘', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/197232874/TB1vN6TffjM8KJjSZFyXXXdzVXa_!!0-item_pic.jpg', 'price': '¥2938.00', 'deal': '232人付款', 'title': '12期免息【2年保修】Apple/苹果\nIpad\n9.7英寸WLAN 苹果平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3120180028/TB2Y7nKdgLD8KJjSszeXXaGRpXa_!!3120180028.jpg', 'price': '¥1799.00', 'deal': '218人付款', 'title': 'Apple/苹果\niPad\nAir 2 平板电脑9.7寸64Gwifi三网4G正品分期6代', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/2579581146/TB25WmBizuhSKJjSspdXXc11XXa_!!2579581146.jpg', 'price': '¥5320.00', 'deal': '76人付款', 'title': '2017新款\nipad\npro 12.9英寸二代 一代 256G内存4G版 掌上平板电脑', 'shop': '萧肖xiaojun', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2359568200/TB2CFOmgIyYBuNkSnfoXXcWgVXa_!!2359568200.jpg', 'price': '¥1758.00', 'deal': '362人付款', 'title': 'Apple/苹果\niPad\n2018款\nipad\nair3平板电脑9.7英寸 新款\niPad\n2018', 'shop': '秦彤彤2013', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1ZN2xLpXXXXaMXpXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥1399.00', 'deal': '32人付款', 'title': 'Apple/苹果\niPad\n4 插卡版原装正品', 'shop': '董兆伍', 'location': '浙江 绍兴'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/60577993/TB2rZpckntYBeNjy1XdXXXXyVXa_!!60577993.jpg', 'price': '¥2015.96', 'deal': '100人付款', 'title': 'Apple/苹果\niPad\n2018款新new\niPad\n9.7国行原封支持Pencil送皮套', 'shop': 'kongleionline', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1HxsHpCtYBeNjSspaXXaOOFXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '5162人付款', 'title': 'Apple/苹果\niPad\nmini4 7.9英寸平板电脑128GWiFi版迷你平板电脑', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/126195000/TB2BNnwaamWBuNjy1XaXXXCbXXa_!!126195000.jpg', 'price': '¥2238.00', 'deal': '577人付款', 'title': 'Apple/苹果\niPad\nmini4代wifi 4G版平板电脑迷你mini 4全新未激活', 'shop': '乐维网购', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/1669409267/TB1ommieYZnBKNjSZFrXXaRLFXa_!!0-item_pic.jpg', 'price': '¥2798.00', 'deal': '694人付款', 'title': '[12期免息]Apple/苹果\niPad\nmini 4 7.9英寸 平板电脑 128GWifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1An8PRFXXXXbUXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥6333.00', 'deal': '', 'title': 'Apple/苹果 12.9 英寸\niPad\nPro', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/1669409267/TB1O9.RoASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg', 'price': '¥2168.00', 'deal': '639人付款', 'title': 'Apple/苹果\nIpad\n2017款 9.7英寸 平板电脑 32G/128G Wifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/127187360/TB2MBeShcnI8KJjSspeXXcwIpXa_!!127187360.jpg', 'price': '¥1845.00', 'deal': '204人付款', 'title': 'Apple/苹果\niPad\nmini 4 WiFi 16G/32G/64G/128G 平板电脑 mini4', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1bRNLhiCYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥4888.00', 'deal': '162人付款', 'title': '2017新款Apple/苹果\niPad\nPro 10.5英寸64G/256G轻薄平板电脑wifi', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/1856213115/TB20S0onKuSBuNjSsplXXbe8pXa_!!1856213115.jpg', 'price': '¥4150.00', 'deal': '51人付款', 'title': 'Apple/苹果\niPad\nPro 10.5英寸wifi+4G全网通新款\nipad\n平板电脑插卡', 'shop': '纯色心情1951', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/2430166508/TB2OzwTintYBeNjy1XdXXXXyVXa_!!2430166508.jpg', 'price': '¥2058.00', 'deal': '239人付款', 'title': 'Apple/苹果\niPad\n2018款 32 128G wifi 4G 新\niPad\nAir 4 未激活', 'shop': '麦克团mactuancom', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2643414127/TB2oI8Xd77mBKNjSZFyXXbydFXa_!!2643414127.jpg', 'price': '¥1198.00', 'deal': '260人付款', 'title': '苹果\nipad\nmini2平板电脑 迷你2 wifi32G 7.9英寸 mini2 插卡', 'shop': '天空f翱翔', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/157682098/TB2wFwHfxPI8KJjSspfXXcCFXXa_!!157682098.jpg', 'price': '¥1564.20', 'deal': '195人付款', 'title': 'Apple/苹果\niPad\nmini3 7.9英寸16G wifi迷你3指纹 插卡平板电脑', 'shop': 'nanznvy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/898225/TB25bFmleuSBuNjSsziXXbq8pXa_!!898225.jpg', 'price': '¥1888.00', 'deal': '494人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair3 平板电脑\nipad\n2018新款9.7', 'shop': 'ygsd', 'location': '北京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/TB13_7uNXXXXXX2apXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥3259.00', 'deal': '', 'title': 'Apple/苹果\niPad\nmini 4', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/591479855/TB2bpXfn1uSBuNjSsziXXbq8pXa_!!591479855.png', 'price': '¥3899.99', 'deal': '82人付款', 'title': '2017款Apple/苹果\niPad\nPro一二代12.9/10.5/9.7平板电脑美版国行', 'shop': 'goheyboy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1826072582/TB2wW3zgGmWBuNjy1XaXXXCbXXa_!!1826072582.jpeg', 'price': '¥2008.00', 'deal': '235人付款', 'title': 'Apple/苹果\niPad\n2018款平板电脑9.7寸全新未激活国行原封wifi 4g', 'shop': 'cyipad7022', 'location': '四川 成都'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/847541039/TB2Wq01orSYBuNjSspfXXcZCpXa_!!847541039.jpg', 'price': '¥1998.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\nmini4 128G全新7.9寸国行港版美版4G全网通迷你4', 'shop': '益饰缘', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/81480186/TB2BeiBnbGYBuNjy0FoXXciBFXa_!!81480186.jpg', 'price': '¥1788.00', 'deal': '523人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair4 平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'kangkangkfl', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/1711821639/TB2dR46diMnBKNjSZFzXXc_qVXa_!!1711821639.jpg', 'price': '¥1968.00', 'deal': '583人付款', 'title': '现货 Apple/苹果\niPad\n2018款 苹果平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'q272740992', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/3120180028/TB2Y77ZaFTM8KJjSZFlXXaO8FXa_!!3120180028.jpg', 'price': '¥1999.00', 'deal': '171人付款', 'title': 'Apple/苹果\niPad\nmini 4 7.9寸平板电脑 插卡3网4G版 128GB WIFI', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2539737278/TB2qB.EpHXlpuFjSszfXXcSGXXa_!!2539737278.jpg', 'price': '¥2278.00', 'deal': '168人付款', 'title': 'Apple/苹果\niPad\nmini 4 WIFI 4G 128G 迷你4 国行港版美版未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2669992558/TB2j9Rgg1ySBuNjy1zdXXXPxFXa_!!2669992558.jpg', 'price': '¥2378.00', 'deal': '46人付款', 'title': 'Apple/苹果\niPad\nPro 9.7英寸平板电脑2018新款\niPad\n17年12.9寸10.5', 'shop': '睿姒女装', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/197232874/TB1jGHSfXYM8KJjSZFuXXcf7FXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '101人付款', 'title': '12期免息【2年保修】Apple/苹果\niPad\nmini 4 7.9英寸平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/2807688929/TB24pVraSBYBeNjy0FeXXbnmFXa_!!2807688929.jpg', 'price': '¥2250.00', 'deal': '36人付款', 'title': 'Apple/苹果\niPad\nair3 2017新款\nipad\n平板电脑新9.7寸air2升级4G版', 'shop': '郑兴科技', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/319889882/TB2NjtKbB4lpuFjy1zjXXcAKpXa_!!319889882.jpg', 'price': '¥3299.00', 'deal': '93人付款', 'title': 'Apple/苹果\niPad\npro 大屏苹果12.9寸平板电脑\nipad\npro wifi 4G港', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/278519843/TB22UN.cZbI8KJjy1zdXXbe1VXa_!!278519843.jpg', 'price': '¥3928.00', 'deal': '58人付款', 'title': '新款Apple/苹果\niPad\nPro 10.5寸 4G WiFi 平板电脑 原封12.9英寸', 'shop': '隐河通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/127187360/TB2wQxihznD8KJjSspbXXbbEXXa_!!127187360.jpg', 'price': '¥3450.00', 'deal': '172人付款', 'title': 'Apple/苹果\niPad\nPro 10.5寸平板电脑\nipad\npro wifi 4G国行', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/923478439/TB24PMWX17JL1JjSZFKXXc4KXXa_!!923478439.jpg', 'price': '¥2350.00', 'deal': '43人付款', 'title': '【日版代购】Apple/苹果\niPad\nAir3 2017\niPad\npro 10.5 12.9 mini4', 'shop': 'z太极z', 'location': '日本'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/708807856/TB2rDlPj5AKL1JjSZFoXXagCFXa_!!708807856.jpg', 'price': '¥1280.00', 'deal': '129人付款', 'title': 'Apple/苹果\niPad\nAir1 32GB WIFI\niPad\n5平板电脑 64G 超薄9.7英寸', 'shop': '天易e家', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/3339867181/TB1BbaLpuuSBuNjy1XcXXcYjFXa_!!0-item_pic.jpg', 'price': '¥2298.00', 'deal': '240人付款', 'title': 'Apple/苹果\niPad\n2018款 9.7英寸新款平板电脑 air2升级版', 'shop': '岗隆数码专营店', 'location': '江苏 无锡'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/2539737278/TB2EOv4pMJkpuFjSszcXXXfsFXa_!!2539737278.jpg', 'price': '¥5398.00', 'deal': '68人付款', 'title': '新款Apple/苹果\niPad\npro 12.9寸wifi 64 256 512 4G 国行未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/1764629552/TB1VlRSoxSYBuNjSspjXXX73VXa_!!0-item_pic.jpg', 'price': '¥2088.00', 'deal': '217人付款', 'title': '12期分期/2017新款Apple/苹果\nIpad\n平板电脑9.7英寸32G/128G air2', 'shop': '环球机库官方旗舰店', 'location': '江苏 扬州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/129559355/TB2nw7DlbSYBuNjSspiXXXNzpXa_!!129559355.jpg', 'price': '¥2138.00', 'deal': '141人付款', 'title': 'Apple/苹果\niPad\n2018款 平板电脑苹果 9.7英寸 苹果\nipad\n2018新款', 'shop': '易飞数码通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/475434867/TB2yEB9iL5TBuNjSspcXXbnGFXa_!!475434867.jpg', 'price': '¥2788.00', 'deal': '151人付款', 'title': 'Apple/苹果\niPad\npro 12.9寸10.5 平板电脑 新款\nipad\npro12.9二代', 'shop': 'genglulu520', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2671825699/TB24YpVjpGWBuNjy0FbXXb4sXXa_!!2671825699.jpg', 'price': '¥1958.00', 'deal': '28人付款', 'title': '现货学习Apple/苹果\niPad\n2018款\nipad\n平板电脑新款128G支持Pencil', 'shop': 'jiute999', 'location': '河南 郑州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/30768631/TB2R25PhoR1BeNjy0FmXXb0wVXa_!!30768631.jpg', 'price': '¥1988.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\n2018款 新\niPad\n9.7寸平板电脑A10 国行原封送皮套', 'shop': '洋帆数码', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/319889882/TB2bcvvtwJlpuFjSspjXXcT.pXa_!!319889882.jpg', 'price': '¥4080.00', 'deal': '58人付款', 'title': 'Apple/苹果\niPad\nPro 17年新品加强版12.9寸4G\nipad\npro原封国行', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1115488308/TB1.EuAd5CYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥2058.00', 'deal': '130人付款', 'title': '3期0息送钢化膜2017款Apple/苹果\nIpad\n平板电脑9.7英寸air2升级版', 'shop': '君问数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/197232874/TB1vN6TffjM8KJjSZFyXXXdzVXa_!!0-item_pic.jpg', 'price': '¥2938.00', 'deal': '232人付款', 'title': '12期免息【2年保修】Apple/苹果\nIpad\n9.7英寸WLAN 苹果平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/3120180028/TB2Y7nKdgLD8KJjSszeXXaGRpXa_!!3120180028.jpg', 'price': '¥1799.00', 'deal': '218人付款', 'title': 'Apple/苹果\niPad\nAir 2 平板电脑9.7寸64Gwifi三网4G正品分期6代', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/2579581146/TB25WmBizuhSKJjSspdXXc11XXa_!!2579581146.jpg', 'price': '¥5320.00', 'deal': '76人付款', 'title': '2017新款\nipad\npro 12.9英寸二代 一代 256G内存4G版 掌上平板电脑', 'shop': '萧肖xiaojun', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2359568200/TB2CFOmgIyYBuNkSnfoXXcWgVXa_!!2359568200.jpg', 'price': '¥1758.00', 'deal': '362人付款', 'title': 'Apple/苹果\niPad\n2018款\nipad\nair3平板电脑9.7英寸 新款\niPad\n2018', 'shop': '秦彤彤2013', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/TB1ZN2xLpXXXXaMXpXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥1399.00', 'deal': '32人付款', 'title': 'Apple/苹果\niPad\n4 插卡版原装正品', 'shop': '董兆伍', 'location': '浙江 绍兴'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/60577993/TB2rZpckntYBeNjy1XdXXXXyVXa_!!60577993.jpg', 'price': '¥2015.96', 'deal': '100人付款', 'title': 'Apple/苹果\niPad\n2018款新new\niPad\n9.7国行原封支持Pencil送皮套', 'shop': 'kongleionline', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1HxsHpCtYBeNjSspaXXaOOFXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '5162人付款', 'title': 'Apple/苹果\niPad\nmini4 7.9英寸平板电脑128GWiFi版迷你平板电脑', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/126195000/TB2BNnwaamWBuNjy1XaXXXCbXXa_!!126195000.jpg', 'price': '¥2238.00', 'deal': '577人付款', 'title': 'Apple/苹果\niPad\nmini4代wifi 4G版平板电脑迷你mini 4全新未激活', 'shop': '乐维网购', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1669409267/TB1ommieYZnBKNjSZFrXXaRLFXa_!!0-item_pic.jpg', 'price': '¥2798.00', 'deal': '694人付款', 'title': '[12期免息]Apple/苹果\niPad\nmini 4 7.9英寸 平板电脑 128GWifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1An8PRFXXXXbUXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥6333.00', 'deal': '', 'title': 'Apple/苹果 12.9 英寸\niPad\nPro', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/1669409267/TB1O9.RoASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg', 'price': '¥2168.00', 'deal': '639人付款', 'title': 'Apple/苹果\nIpad\n2017款 9.7英寸 平板电脑 32G/128G Wifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/127187360/TB2MBeShcnI8KJjSspeXXcwIpXa_!!127187360.jpg', 'price': '¥1845.00', 'deal': '204人付款', 'title': 'Apple/苹果\niPad\nmini 4 WiFi 16G/32G/64G/128G 平板电脑 mini4', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1bRNLhiCYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥4888.00', 'deal': '162人付款', 'title': '2017新款Apple/苹果\niPad\nPro 10.5英寸64G/256G轻薄平板电脑wifi', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/1856213115/TB20S0onKuSBuNjSsplXXbe8pXa_!!1856213115.jpg', 'price': '¥4150.00', 'deal': '51人付款', 'title': 'Apple/苹果\niPad\nPro 10.5英寸wifi+4G全网通新款\nipad\n平板电脑插卡', 'shop': '纯色心情1951', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2430166508/TB2OzwTintYBeNjy1XdXXXXyVXa_!!2430166508.jpg', 'price': '¥2058.00', 'deal': '239人付款', 'title': 'Apple/苹果\niPad\n2018款 32 128G wifi 4G 新\niPad\nAir 4 未激活', 'shop': '麦克团mactuancom', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2643414127/TB2oI8Xd77mBKNjSZFyXXbydFXa_!!2643414127.jpg', 'price': '¥1198.00', 'deal': '260人付款', 'title': '苹果\nipad\nmini2平板电脑 迷你2 wifi32G 7.9英寸 mini2 插卡', 'shop': '天空f翱翔', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/157682098/TB2wFwHfxPI8KJjSspfXXcCFXXa_!!157682098.jpg', 'price': '¥1564.20', 'deal': '195人付款', 'title': 'Apple/苹果\niPad\nmini3 7.9英寸16G wifi迷你3指纹 插卡平板电脑', 'shop': 'nanznvy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/898225/TB25bFmleuSBuNjSsziXXbq8pXa_!!898225.jpg', 'price': '¥1888.00', 'deal': '494人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair3 平板电脑\nipad\n2018新款9.7', 'shop': 'ygsd', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/TB13_7uNXXXXXX2apXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥3259.00', 'deal': '', 'title': 'Apple/苹果\niPad\nmini 4', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/591479855/TB2bpXfn1uSBuNjSsziXXbq8pXa_!!591479855.png', 'price': '¥3899.99', 'deal': '82人付款', 'title': '2017款Apple/苹果\niPad\nPro一二代12.9/10.5/9.7平板电脑美版国行', 'shop': 'goheyboy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1826072582/TB2wW3zgGmWBuNjy1XaXXXCbXXa_!!1826072582.jpeg', 'price': '¥2008.00', 'deal': '235人付款', 'title': 'Apple/苹果\niPad\n2018款平板电脑9.7寸全新未激活国行原封wifi 4g', 'shop': 'cyipad7022', 'location': '四川 成都'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/847541039/TB2Wq01orSYBuNjSspfXXcZCpXa_!!847541039.jpg', 'price': '¥1998.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\nmini4 128G全新7.9寸国行港版美版4G全网通迷你4', 'shop': '益饰缘', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/81480186/TB2BeiBnbGYBuNjy0FoXXciBFXa_!!81480186.jpg', 'price': '¥1788.00', 'deal': '523人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair4 平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'kangkangkfl', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/1711821639/TB2dR46diMnBKNjSZFzXXc_qVXa_!!1711821639.jpg', 'price': '¥1968.00', 'deal': '583人付款', 'title': '现货 Apple/苹果\niPad\n2018款 苹果平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'q272740992', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/3120180028/TB2Y77ZaFTM8KJjSZFlXXaO8FXa_!!3120180028.jpg', 'price': '¥1999.00', 'deal': '171人付款', 'title': 'Apple/苹果\niPad\nmini 4 7.9寸平板电脑 插卡3网4G版 128GB WIFI', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2539737278/TB2qB.EpHXlpuFjSszfXXcSGXXa_!!2539737278.jpg', 'price': '¥2278.00', 'deal': '168人付款', 'title': 'Apple/苹果\niPad\nmini 4 WIFI 4G 128G 迷你4 国行港版美版未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2669992558/TB2j9Rgg1ySBuNjy1zdXXXPxFXa_!!2669992558.jpg', 'price': '¥2378.00', 'deal': '46人付款', 'title': 'Apple/苹果\niPad\nPro 9.7英寸平板电脑2018新款\niPad\n17年12.9寸10.5', 'shop': '睿姒女装', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/197232874/TB1jGHSfXYM8KJjSZFuXXcf7FXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '101人付款', 'title': '12期免息【2年保修】Apple/苹果\niPad\nmini 4 7.9英寸平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2807688929/TB24pVraSBYBeNjy0FeXXbnmFXa_!!2807688929.jpg', 'price': '¥2250.00', 'deal': '36人付款', 'title': 'Apple/苹果\niPad\nair3 2017新款\nipad\n平板电脑新9.7寸air2升级4G版', 'shop': '郑兴科技', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/319889882/TB2NjtKbB4lpuFjy1zjXXcAKpXa_!!319889882.jpg', 'price': '¥3299.00', 'deal': '93人付款', 'title': 'Apple/苹果\niPad\npro 大屏苹果12.9寸平板电脑\nipad\npro wifi 4G港', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/278519843/TB22UN.cZbI8KJjy1zdXXbe1VXa_!!278519843.jpg', 'price': '¥3928.00', 'deal': '58人付款', 'title': '新款Apple/苹果\niPad\nPro 10.5寸 4G WiFi 平板电脑 原封12.9英寸', 'shop': '隐河通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/127187360/TB2wQxihznD8KJjSspbXXbbEXXa_!!127187360.jpg', 'price': '¥3450.00', 'deal': '172人付款', 'title': 'Apple/苹果\niPad\nPro 10.5寸平板电脑\nipad\npro wifi 4G国行', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/923478439/TB24PMWX17JL1JjSZFKXXc4KXXa_!!923478439.jpg', 'price': '¥2350.00', 'deal': '43人付款', 'title': '【日版代购】Apple/苹果\niPad\nAir3 2017\niPad\npro 10.5 12.9 mini4', 'shop': 'z太极z', 'location': '日本'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/708807856/TB2rDlPj5AKL1JjSZFoXXagCFXa_!!708807856.jpg', 'price': '¥1280.00', 'deal': '129人付款', 'title': 'Apple/苹果\niPad\nAir1 32GB WIFI\niPad\n5平板电脑 64G 超薄9.7英寸', 'shop': '天易e家', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/3339867181/TB1BbaLpuuSBuNjy1XcXXcYjFXa_!!0-item_pic.jpg', 'price': '¥2298.00', 'deal': '240人付款', 'title': 'Apple/苹果\niPad\n2018款 9.7英寸新款平板电脑 air2升级版', 'shop': '岗隆数码专营店', 'location': '江苏 无锡'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/2539737278/TB2EOv4pMJkpuFjSszcXXXfsFXa_!!2539737278.jpg', 'price': '¥5398.00', 'deal': '68人付款', 'title': '新款Apple/苹果\niPad\npro 12.9寸wifi 64 256 512 4G 国行未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/1764629552/TB1VlRSoxSYBuNjSspjXXX73VXa_!!0-item_pic.jpg', 'price': '¥2088.00', 'deal': '217人付款', 'title': '12期分期/2017新款Apple/苹果\nIpad\n平板电脑9.7英寸32G/128G air2', 'shop': '环球机库官方旗舰店', 'location': '江苏 扬州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/129559355/TB2nw7DlbSYBuNjSspiXXXNzpXa_!!129559355.jpg', 'price': '¥2138.00', 'deal': '141人付款', 'title': 'Apple/苹果\niPad\n2018款 平板电脑苹果 9.7英寸 苹果\nipad\n2018新款', 'shop': '易飞数码通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/475434867/TB2yEB9iL5TBuNjSspcXXbnGFXa_!!475434867.jpg', 'price': '¥2788.00', 'deal': '151人付款', 'title': 'Apple/苹果\niPad\npro 12.9寸10.5 平板电脑 新款\nipad\npro12.9二代', 'shop': 'genglulu520', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2671825699/TB24YpVjpGWBuNjy0FbXXb4sXXa_!!2671825699.jpg', 'price': '¥1958.00', 'deal': '28人付款', 'title': '现货学习Apple/苹果\niPad\n2018款\nipad\n平板电脑新款128G支持Pencil', 'shop': 'jiute999', 'location': '河南 郑州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/30768631/TB2R25PhoR1BeNjy0FmXXb0wVXa_!!30768631.jpg', 'price': '¥1988.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\n2018款 新\niPad\n9.7寸平板电脑A10 国行原封送皮套', 'shop': '洋帆数码', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/319889882/TB2bcvvtwJlpuFjSspjXXcT.pXa_!!319889882.jpg', 'price': '¥4080.00', 'deal': '58人付款', 'title': 'Apple/苹果\niPad\nPro 17年新品加强版12.9寸4G\nipad\npro原封国行', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/1115488308/TB1.EuAd5CYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥2058.00', 'deal': '130人付款', 'title': '3期0息送钢化膜2017款Apple/苹果\nIpad\n平板电脑9.7英寸air2升级版', 'shop': '君问数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/268451883/TB1Dr8tm25TBuNjSspmXXaDRVXa_!!0-item_pic.jpg', 'price': '¥2698.00', 'deal': '169人付款', 'title': '【128G3期免息】Apple/苹果\niPad\nmini 4 7.9英寸 wifi 平板电脑', 'shop': '三际数码官方旗舰店', 'location': '山东 济南'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/197232874/TB1vN6TffjM8KJjSZFyXXXdzVXa_!!0-item_pic.jpg', 'price': '¥2938.00', 'deal': '232人付款', 'title': '12期免息【2年保修】Apple/苹果\nIpad\n9.7英寸WLAN 苹果平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3120180028/TB2Y7nKdgLD8KJjSszeXXaGRpXa_!!3120180028.jpg', 'price': '¥1799.00', 'deal': '218人付款', 'title': 'Apple/苹果\niPad\nAir 2 平板电脑9.7寸64Gwifi三网4G正品分期6代', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/2579581146/TB25WmBizuhSKJjSspdXXc11XXa_!!2579581146.jpg', 'price': '¥5320.00', 'deal': '76人付款', 'title': '2017新款\nipad\npro 12.9英寸二代 一代 256G内存4G版 掌上平板电脑', 'shop': '萧肖xiaojun', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2359568200/TB2CFOmgIyYBuNkSnfoXXcWgVXa_!!2359568200.jpg', 'price': '¥1758.00', 'deal': '362人付款', 'title': 'Apple/苹果\niPad\n2018款\nipad\nair3平板电脑9.7英寸 新款\niPad\n2018', 'shop': '秦彤彤2013', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1ZN2xLpXXXXaMXpXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥1399.00', 'deal': '32人付款', 'title': 'Apple/苹果\niPad\n4 插卡版原装正品', 'shop': '董兆伍', 'location': '浙江 绍兴'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/60577993/TB2rZpckntYBeNjy1XdXXXXyVXa_!!60577993.jpg', 'price': '¥2015.96', 'deal': '100人付款', 'title': 'Apple/苹果\niPad\n2018款新new\niPad\n9.7国行原封支持Pencil送皮套', 'shop': 'kongleionline', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1HxsHpCtYBeNjSspaXXaOOFXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '5162人付款', 'title': 'Apple/苹果\niPad\nmini4 7.9英寸平板电脑128GWiFi版迷你平板电脑', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i1/126195000/TB2BNnwaamWBuNjy1XaXXXCbXXa_!!126195000.jpg', 'price': '¥2238.00', 'deal': '577人付款', 'title': 'Apple/苹果\niPad\nmini4代wifi 4G版平板电脑迷你mini 4全新未激活', 'shop': '乐维网购', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1669409267/TB1ommieYZnBKNjSZFrXXaRLFXa_!!0-item_pic.jpg', 'price': '¥2798.00', 'deal': '694人付款', 'title': '[12期免息]Apple/苹果\niPad\nmini 4 7.9英寸 平板电脑 128GWifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/TB1An8PRFXXXXbUXVXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥6333.00', 'deal': '', 'title': 'Apple/苹果 12.9 英寸\niPad\nPro', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i2/1669409267/TB1O9.RoASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg', 'price': '¥2168.00', 'deal': '639人付款', 'title': 'Apple/苹果\nIpad\n2017款 9.7英寸 平板电脑 32G/128G Wifi版', 'shop': '卓辰数码旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/127187360/TB2MBeShcnI8KJjSspeXXcwIpXa_!!127187360.jpg', 'price': '¥1845.00', 'deal': '204人付款', 'title': 'Apple/苹果\niPad\nmini 4 WiFi 16G/32G/64G/128G 平板电脑 mini4', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2616970884/TB1bRNLhiCYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥4888.00', 'deal': '162人付款', 'title': '2017新款Apple/苹果\niPad\nPro 10.5英寸64G/256G轻薄平板电脑wifi', 'shop': '苏宁易购官方旗舰店', 'location': '江苏 南京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/1856213115/TB20S0onKuSBuNjSsplXXbe8pXa_!!1856213115.jpg', 'price': '¥4150.00', 'deal': '51人付款', 'title': 'Apple/苹果\niPad\nPro 10.5英寸wifi+4G全网通新款\nipad\n平板电脑插卡', 'shop': '纯色心情1951', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2430166508/TB2OzwTintYBeNjy1XdXXXXyVXa_!!2430166508.jpg', 'price': '¥2058.00', 'deal': '239人付款', 'title': 'Apple/苹果\niPad\n2018款 32 128G wifi 4G 新\niPad\nAir 4 未激活', 'shop': '麦克团mactuancom', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2643414127/TB2oI8Xd77mBKNjSZFyXXbydFXa_!!2643414127.jpg', 'price': '¥1198.00', 'deal': '260人付款', 'title': '苹果\nipad\nmini2平板电脑 迷你2 wifi32G 7.9英寸 mini2 插卡', 'shop': '天空f翱翔', 'location': '广东 深圳'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/157682098/TB2wFwHfxPI8KJjSspfXXcCFXXa_!!157682098.jpg', 'price': '¥1564.20', 'deal': '195人付款', 'title': 'Apple/苹果\niPad\nmini3 7.9英寸16G wifi迷你3指纹 插卡平板电脑', 'shop': 'nanznvy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i2/898225/TB25bFmleuSBuNjSsziXXbq8pXa_!!898225.jpg', 'price': '¥1888.00', 'deal': '494人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair3 平板电脑\nipad\n2018新款9.7', 'shop': 'ygsd', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/TB13_7uNXXXXXX2apXXXXXXXXXX_!!0-item_pic.jpg', 'price': '¥3259.00', 'deal': '', 'title': 'Apple/苹果\niPad\nmini 4', 'shop': 'applestore官方旗舰店', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/591479855/TB2bpXfn1uSBuNjSsziXXbq8pXa_!!591479855.png', 'price': '¥3899.99', 'deal': '82人付款', 'title': '2017款Apple/苹果\niPad\nPro一二代12.9/10.5/9.7平板电脑美版国行', 'shop': 'goheyboy', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/1826072582/TB2wW3zgGmWBuNjy1XaXXXCbXXa_!!1826072582.jpeg', 'price': '¥2008.00', 'deal': '235人付款', 'title': 'Apple/苹果\niPad\n2018款平板电脑9.7寸全新未激活国行原封wifi 4g', 'shop': 'cyipad7022', 'location': '四川 成都'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/847541039/TB2Wq01orSYBuNjSspfXXcZCpXa_!!847541039.jpg', 'price': '¥1998.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\nmini4 128G全新7.9寸国行港版美版4G全网通迷你4', 'shop': '益饰缘', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/81480186/TB2BeiBnbGYBuNjy0FoXXciBFXa_!!81480186.jpg', 'price': '¥1788.00', 'deal': '523人付款', 'title': 'Apple/苹果\niPad\n2018款\niPad\nair4 平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'kangkangkfl', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/1711821639/TB2dR46diMnBKNjSZFzXXc_qVXa_!!1711821639.jpg', 'price': '¥1968.00', 'deal': '583人付款', 'title': '现货 Apple/苹果\niPad\n2018款 苹果平板电脑9.7英寸 新款\nipad\n2018', 'shop': 'q272740992', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/3120180028/TB2Y77ZaFTM8KJjSZFlXXaO8FXa_!!3120180028.jpg', 'price': '¥1999.00', 'deal': '171人付款', 'title': 'Apple/苹果\niPad\nmini 4 7.9寸平板电脑 插卡3网4G版 128GB WIFI', 'shop': '四际数码digital', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i4/2539737278/TB2qB.EpHXlpuFjSszfXXcSGXXa_!!2539737278.jpg', 'price': '¥2278.00', 'deal': '168人付款', 'title': 'Apple/苹果\niPad\nmini 4 WIFI 4G 128G 迷你4 国行港版美版未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2669992558/TB2j9Rgg1ySBuNjy1zdXXXPxFXa_!!2669992558.jpg', 'price': '¥2378.00', 'deal': '46人付款', 'title': 'Apple/苹果\niPad\nPro 9.7英寸平板电脑2018新款\niPad\n17年12.9寸10.5', 'shop': '睿姒女装', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/197232874/TB1jGHSfXYM8KJjSZFuXXcf7FXa_!!0-item_pic.jpg', 'price': '¥2699.00', 'deal': '101人付款', 'title': '12期免息【2年保修】Apple/苹果\niPad\nmini 4 7.9英寸平板电脑', 'shop': '绿森数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2807688929/TB24pVraSBYBeNjy0FeXXbnmFXa_!!2807688929.jpg', 'price': '¥2250.00', 'deal': '36人付款', 'title': 'Apple/苹果\niPad\nair3 2017新款\nipad\n平板电脑新9.7寸air2升级4G版', 'shop': '郑兴科技', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/319889882/TB2NjtKbB4lpuFjy1zjXXcAKpXa_!!319889882.jpg', 'price': '¥3299.00', 'deal': '93人付款', 'title': 'Apple/苹果\niPad\npro 大屏苹果12.9寸平板电脑\nipad\npro wifi 4G港', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/278519843/TB22UN.cZbI8KJjy1zdXXbe1VXa_!!278519843.jpg', 'price': '¥3928.00', 'deal': '58人付款', 'title': '新款Apple/苹果\niPad\nPro 10.5寸 4G WiFi 平板电脑 原封12.9英寸', 'shop': '隐河通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/127187360/TB2wQxihznD8KJjSspbXXbbEXXa_!!127187360.jpg', 'price': '¥3450.00', 'deal': '172人付款', 'title': 'Apple/苹果\niPad\nPro 10.5寸平板电脑\nipad\npro wifi 4G国行', 'shop': '每天多赚一块钱', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/923478439/TB24PMWX17JL1JjSZFKXXc4KXXa_!!923478439.jpg', 'price': '¥2350.00', 'deal': '43人付款', 'title': '【日版代购】Apple/苹果\niPad\nAir3 2017\niPad\npro 10.5 12.9 mini4', 'shop': 'z太极z', 'location': '日本'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i1/708807856/TB2rDlPj5AKL1JjSZFoXXagCFXa_!!708807856.jpg', 'price': '¥1280.00', 'deal': '129人付款', 'title': 'Apple/苹果\niPad\nAir1 32GB WIFI\niPad\n5平板电脑 64G 超薄9.7英寸', 'shop': '天易e家', 'location': '广东 深圳'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3339867181/TB1BbaLpuuSBuNjy1XcXXcYjFXa_!!0-item_pic.jpg', 'price': '¥2298.00', 'deal': '240人付款', 'title': 'Apple/苹果\niPad\n2018款 9.7英寸新款平板电脑 air2升级版', 'shop': '岗隆数码专营店', 'location': '江苏 无锡'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/2539737278/TB2EOv4pMJkpuFjSszcXXXfsFXa_!!2539737278.jpg', 'price': '¥5398.00', 'deal': '68人付款', 'title': '新款Apple/苹果\niPad\npro 12.9寸wifi 64 256 512 4G 国行未激活', 'shop': '李小麦的店', 'location': '北京'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i2/1764629552/TB1VlRSoxSYBuNjSspjXXX73VXa_!!0-item_pic.jpg', 'price': '¥2088.00', 'deal': '217人付款', 'title': '12期分期/2017新款Apple/苹果\nIpad\n平板电脑9.7英寸32G/128G air2', 'shop': '环球机库官方旗舰店', 'location': '江苏 扬州'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i3/129559355/TB2nw7DlbSYBuNjSspiXXXNzpXa_!!129559355.jpg', 'price': '¥2138.00', 'deal': '141人付款', 'title': 'Apple/苹果\niPad\n2018款 平板电脑苹果 9.7英寸 苹果\nipad\n2018新款', 'shop': '易飞数码通讯', 'location': '广东 深圳'}
+
+
+{'image': '//g-search1.alicdn.com/img/bao/uploaded/i4/i3/475434867/TB2yEB9iL5TBuNjSspcXXbnGFXa_!!475434867.jpg', 'price': '¥2788.00', 'deal': '151人付款', 'title': 'Apple/苹果\niPad\npro 12.9寸10.5 平板电脑 新款\nipad\npro12.9二代', 'shop': 'genglulu520', 'location': '广东 广州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2671825699/TB24YpVjpGWBuNjy0FbXXb4sXXa_!!2671825699.jpg', 'price': '¥1958.00', 'deal': '28人付款', 'title': '现货学习Apple/苹果\niPad\n2018款\nipad\n平板电脑新款128G支持Pencil', 'shop': 'jiute999', 'location': '河南 郑州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i4/30768631/TB2R25PhoR1BeNjy0FmXXb0wVXa_!!30768631.jpg', 'price': '¥1988.00', 'deal': '87人付款', 'title': 'Apple/苹果\niPad\n2018款 新\niPad\n9.7寸平板电脑A10 国行原封送皮套', 'shop': '洋帆数码', 'location': '湖北 武汉'}
+
+
+{'image': '//g-search2.alicdn.com/img/bao/uploaded/i4/i4/319889882/TB2bcvvtwJlpuFjSspjXXcT.pXa_!!319889882.jpg', 'price': '¥4080.00', 'deal': '58人付款', 'title': 'Apple/苹果\niPad\nPro 17年新品加强版12.9寸4G\nipad\npro原封国行', 'shop': '飞翔数码馆', 'location': '上海'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1115488308/TB1.EuAd5CYBuNkSnaVXXcMsVXa_!!0-item_pic.jpg', 'price': '¥2058.00', 'deal': '130人付款', 'title': '3期0息送钢化膜2017款Apple/苹果\nIpad\n平板电脑9.7英寸air2升级版', 'shop': '君问数码官方旗舰店', 'location': '浙江 杭州'}
+
+
+{'image': '//g-search3.alicdn.com/img/bao/uploaded/i4/i1/268451883/TB1Dr8tm25TBuNjSspmXXaDRVXa_!!0-item_pic.jpg', 'price': '¥2698.00', 'deal': '169人付款', 'title': '【128G3期免息】Apple/苹果\niPad\nmini 4 7.9英寸 wifi 平板电脑', 'shop': '三际数码官方旗舰店', 'location': '山东 济南'}
+
+
